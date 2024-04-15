@@ -8,7 +8,6 @@ import {
 import './index.css'
 import Root from './components/Root/Root.jsx';
 import Home from './components/Home/Home.jsx';
-
 const router = createBrowserRouter([
   {
     path: "/",
